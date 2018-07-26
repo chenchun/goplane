@@ -18,3 +18,5 @@ import:
   version: 87909c6dada5cba3aa659144a40b1e575d79d625
 - package: google.golang.org/grpc
   version: ^1.0.5
+- package: github.com/satori/go.uuid
+  version: b061729afc07e77a8aa4fad0a2fd840958f1942a

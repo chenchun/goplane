@@ -1,5 +1,5 @@
-hash: cd5aad290da99c7b8a32c9acf7406be1ae6720482889c23a5e13be0dbe6f72ff
-updated: 2018-07-26T17:42:02.060805609+08:00
+hash: ccbb6769d594423fa7dd39a94be0998592dfc126312e34c20e1be02301cfa5f9
+updated: 2018-07-26T19:31:40.581495172+08:00
 imports:
 - name: github.com/armon/go-radix
   version: 1fca145dffbcaa8fe914309b1ec0cfc67500fe61
@@ -61,7 +61,7 @@ imports:
 - name: github.com/pelletier/go-toml
   version: c2dbbc24a97911339e01bda0b8cabdbd8f13b602
 - name: github.com/satori/go.uuid
-  version: 36e9d2ebbde5e3f13ab2e25625fd453271d6522e
+  version: b061729afc07e77a8aa4fad0a2fd840958f1942a
 - name: github.com/Sirupsen/logrus
   version: 55eb11d21d2a31a3cc93838241d04800f52e823d
   subpackages:
